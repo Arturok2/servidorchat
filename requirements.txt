@@ -1,0 +1,16 @@
+# Dependencias para el servidor de chat
+# Python 2.7+ y 3.x compatible
+
+# Estas son las librerías ya incluidas en Python, pero las listamos por claridad
+# Para Python 2.7 compatibilidad
+future==0.18.3
+
+# Para mejor manejo de JSON en Python 2
+simplejson==3.19.1
+
+# Para logging mejorado (opcional)
+colorlog==6.7.0
+
+# Para manejo de señales del sistema (opcional)
+psutil==5.9.5
+
