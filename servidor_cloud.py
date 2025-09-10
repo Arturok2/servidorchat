@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 # Se añaden imports de __future__ para compatibilidad. DEBEN ESTAR AL PRINCIPIO.
 from __future__ import print_function, unicode_literals
 
@@ -638,4 +637,5 @@ if __name__ == "__main__":
         traceback.print_exc()
     finally:
         logger.info("Script del servidor finalizado.")
+
         print("Script del servidor finalizado.")
